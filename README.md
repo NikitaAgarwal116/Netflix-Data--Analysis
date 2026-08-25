@@ -25,6 +25,20 @@ This project performs Exploratory Data Analysis (EDA) on Netflix Movies and TV S
 - Language Analysis
 - Content Evolution Over Time
 
+## 📊 Visualizations
+
+### Movies vs TV Shows Distribution
+![Movies vs TV Shows](Movies_vs_TV_Shows_Distribution.png)
+
+### Top 10 Countries with Most Netflix Content
+![Top Countries](Top_10_Countries_with_Most_Netflix_Content.png)
+
+### Top 10 Genres on Netflix
+![Top Genres](Top_10_Genres_on_Netflix.png)
+
+### Content Added to Netflix Over the Years
+![Content Added Over Time](Content_Added_to_Netflix_Each_Year.png)
+
 ## 📊 Key Findings
 - Movies are more dominant than TV Shows on Netflix.
 - Drama, International Movies, and Comedy are among the most common genres.
